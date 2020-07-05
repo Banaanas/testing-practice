@@ -74,10 +74,9 @@ Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for
 
 ## Contact
 
-Cyrilo - [YourContactLink](https://yourContactlink) - email@email.com
+Cyrilo - Personal Website - cyrildeveloppeur@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: https://github.com/Banaanas/testing-practice
 
 <!-- ACKNOWLEDGEMENTS -->
 
