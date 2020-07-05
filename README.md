@@ -56,8 +56,8 @@ TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https:
 
 
 #### Principal Features
-- 5 functions : capitalize(string) - calculator(add, subtract, divide, multiply.), Caesar Cipher, Array Analysis
-- 5 series of tests relating to the functions described above
+- 5 functions : capitalize(string) - calculator(add, subtract, divide, multiply.), Caesar Cipher, Array Analysis ;
+- 5 series of tests relating to the functions described above.
 
 #### Built With
 
