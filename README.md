@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-        <img src="./src/images/test.svg" alt="Test Icon" width="80" height="80">
+        <img src="./images/test.svg" alt="Test Icon" width="80" height="80">
 </p>
 
 <h1 align="center">:vertical_traffic_light: TESTING :traffic_light: PRACTICE :vertical_traffic_light:</h1>
