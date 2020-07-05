@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
     <a href="https://linkOfLiveDemo">
-        <img src="src/images/README/screenshot-1.png" alt="Test Icon" width="80" height="80">
+        <img src="src/images/test.svg" alt="Test Icon" width="80" height="80">
     </a>
 </p>
 
