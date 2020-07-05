@@ -26,9 +26,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <a href="https://linkOfLiveDemo">
         <img src="src/images/test.svg" alt="Test Icon" width="80" height="80">
-    </a>
 </p>
 
 <h1 align="center">:vertical_traffic_light: TESTING :traffic_light: PRACTICE :vertical_traffic_light:</h1>
