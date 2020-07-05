@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
     <a href="https://linkOfLiveDemo">
-        <img src="./src/images/README/test.svg" alt="Test Icon" width="80" height="80">
+        <img src="src/images/README/screenshot-1.png" alt="Test Icon" width="80" height="80">
     </a>
 </p>
 
@@ -60,8 +60,6 @@ TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https:
 - 5 series of tests relating to the functions described above
 
 #### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [Vanilla JavaScript](http://vanilla-js.com/);
 - [Jest](https://jestjs.io/)
