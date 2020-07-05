@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">:vertical_traffic_light::traffic_light:TESTING PRACTICE :traffic_light::vertical_traffic_light:</h1>
+<h1 align="center">:vertical_traffic_light: TESTING :traffic_light: PRACTICE :vertical_traffic_light:</h1>
 
 <p align="center">
     Introduction to Test Driven Development (TDD) - Unit Testing<br/><br/>
