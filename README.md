@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">:vertical_traffic_light:TESTING PRACTICE :traffic_light:</h1>
+<h1 align="center">:vertical_traffic_light::traffic_light:TESTING PRACTICE :traffic_light::vertical_traffic_light:</h1>
 
 <p align="center">
     Introduction to Test Driven Development (TDD) - Unit Testing<br/><br/>
@@ -69,7 +69,7 @@ TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for more information.
 
 
 <!-- CONTACT -->
