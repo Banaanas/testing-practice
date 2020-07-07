@@ -59,7 +59,7 @@ TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https:
 
 #### Built With
 
-- [Vanilla JavaScript](http://vanilla-js.com/);
+- [Vanilla JavaScript](http://vanilla-js.com/)
 - [Jest](https://jestjs.io/)
 
 
