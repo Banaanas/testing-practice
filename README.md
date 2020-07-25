@@ -76,7 +76,7 @@ Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for
 
 Cyrilo - [Personal Website](https://yetToCome) - cyrildeveloppeur@gmail.com
 
-Project Link: https://github.com/Banaanas/testing-practice
+Project Link: [https://github.com/Banaanas/testing-practice](https://github.com/Banaanas/testing-practice) 
 
 <!-- ACKNOWLEDGEMENTS -->
 
