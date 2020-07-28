@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
      <a href="https://github.com/Banaanas/testing-practice-TOP/">
-        <img src="./images/test.svg" alt="Test Icon" width="80" height="80">
+        <img src="./images/test.svg" alt="Test Icon" width="120" height="120">
      </a>
 </p>
 
