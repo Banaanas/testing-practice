@@ -26,7 +26,9 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
+     <a href="https://github.com/Banaanas/testing-practice-TOP/">
         <img src="./images/test.svg" alt="Test Icon" width="80" height="80">
+     </a>
 </p>
 
 <h1 align="center">:vertical_traffic_light: TESTING :traffic_light: PRACTICE :vertical_traffic_light:</h1>
@@ -75,8 +77,8 @@ Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for
 ## Contact
 
 Cyrilo - [Personal Website](https://yetToCome) - cyrildeveloppeur@gmail.com
-
-Project Link: [https://github.com/Banaanas/testing-practice](https://github.com/Banaanas/testing-practice) 
+/
+Project Link: [https://github.com/Banaanas/testing-practice-TOP/](https://github.com/Banaanas/testing-practice-TOP/) 
 
 <!-- ACKNOWLEDGEMENTS -->
 
