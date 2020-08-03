@@ -52,7 +52,7 @@
 
 ## About the Project
 
-TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript curriculum</a>.
+TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 
 #### Principal Features
