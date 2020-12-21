@@ -48,16 +48,22 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 
 TDD - Unit Testing practice, using Jest, and achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 
+<!-- PRINCIPAL FEATURES -->
+
 #### Principal Features
 - 5 functions : capitalize(string) - calculator(add, subtract, divide, multiply.), Caesar Cipher, Array Analysis ;
 - 5 series of tests relating to the functions described above.
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
@@ -76,7 +82,6 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 ## Contact
 
-
 Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail.com)
 
 Project Link: [https://github.com/Banaanas/testing-practice-TOP/](https://github.com/Banaanas/testing-practice-TOP/) 
@@ -87,6 +92,7 @@ Project Link: [https://github.com/Banaanas/testing-practice-TOP/](https://github
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
