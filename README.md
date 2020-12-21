@@ -87,7 +87,6 @@ Project Link: [https://github.com/Banaanas/testing-practice-TOP/](https://github
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-- [GitHub Pages](https://pages.github.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
