@@ -17,7 +17,7 @@
 *** https://shields.io/.
 -->
 
-[![Cyrilo][personal-website-shield]][personal-website-url]
+[![Cyriloo][personal-website-shield]][personal-website-url]
 [![LinkedIn][linkedin-shield]][linkedIn-url]
 [![MIT License][license-shield]][license-url]
 
